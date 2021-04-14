@@ -25,5 +25,3 @@ class Aplicacion:
         self.
 
 
-pene.trinomioC()
-print(pene)
