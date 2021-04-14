@@ -23,3 +23,7 @@ class Aplicacion:
         self.a2b = 2 * self.valor1 * self.valor2
         self.B2 = self.valor2 ** 2
         self.
+
+
+pene.trinomioC()
+print(pene)
