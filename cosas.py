@@ -1,14 +1,14 @@
 
-print ("puto el q lea")
 print("Hola")
 
-#pene seco
+#Comentario...
 
 V1 = 2
 V2 = 3
 V3 = V1 + V2
 
 print(V3)
+print(V1 + V3)
 
 class Aplicacion:
 
@@ -26,6 +26,6 @@ class Aplicacion:
 
 
 pene.trinomioC()
-print(pene)
+print(Fotosintesis)
 
 print("wewewe")
